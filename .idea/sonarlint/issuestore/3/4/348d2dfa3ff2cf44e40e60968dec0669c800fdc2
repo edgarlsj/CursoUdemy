@@ -1,0 +1,21 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šòæï8ĞÛ§Î¼1
+`
+java:S1854">Remove this useless assignment to local variable "workerName".(¢Æç£ÿÿÿÿÿ8ŞÛ§Î¼1
+L	java:S106"+Replace this use of System.out by a logger.(‚ÿ¼Œùÿÿÿÿ8ìÛ§Î¼1
+G	java:S106"+Replace this use of System.out by a logger.(ä°Ÿ 8íÛ§Î¼1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8îÛ§Î¼1
+Q
+java:S1481"/Remove this unused "workerName" local variable.(¢Æç£ÿÿÿÿÿ8ğÛ§Î¼1
+G	java:S106"+Replace this use of System.out by a logger.(ëØ£•8ñÛ§Î¼1
+L	java:S106"+Replace this use of System.out by a logger.(±ò’·üÿÿÿÿ8õÛ§Î¼1
+G	java:S106"+Replace this use of System.out by a logger.(á¯¡Ç8ùÛ§Î¼1
+G	java:S106$"+Replace this use of System.out by a logger.(¢Ö«·8ûÛ§Î¼1
+L	java:S106%"+Replace this use of System.out by a logger.(­ÎÅŸúÿÿÿÿ8ûÛ§Î¼1
+G	java:S106'"+Replace this use of System.out by a logger.(¶úÑà8ıÛ§Î¼1
+L	java:S106)"+Replace this use of System.out by a logger.(ïŒ·åÿÿÿÿÿ8ıÛ§Î¼1
+L	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÿÛ§Î¼1
+G	java:S1060"+Replace this use of System.out by a logger.(ó‹ÓŠ8ÿÛ§Î¼1
+L	java:S1064"+Replace this use of System.out by a logger.(Êª‰ùÿÿÿÿ8Ü§Î¼1
+L	java:S1065"+Replace this use of System.out by a logger.(ÖÁìˆüÿÿÿÿ8‚Ü§Î¼1
+L	java:S1066"+Replace this use of System.out by a logger.(®·Û§ùÿÿÿÿ8ƒÜ§Î¼1
