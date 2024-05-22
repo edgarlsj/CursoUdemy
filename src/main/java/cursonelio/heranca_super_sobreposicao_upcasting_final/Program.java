@@ -3,13 +3,13 @@ package cursonelio.heranca_super_sobreposicao_upcasting_final;
 public class Program {
     public static void main(String[] args) {
 
-        Account acc = new Account(1001, "Edgar", 0.0);
-        BusinessAccount bacc = new BusinessAccount(1001, "Viviane", 0.0, 500.0);
+//        Account acc = new Account(1001, "Edgar", 0.0);
+//        BusinessAccount bacc = new BusinessAccount(1001, "Viviane", 0.0, 500.0);
 
 //        UPCASTING : ocorre quando você atribui uma instância de uma Subclasse a uma variável de referência da Superclasse.
 //        Isso é seguro porque a subclasse herda todos os membros da superclasse.
 
-        Account acc1 = bacc;
+//        Account acc1 = bacc;
         Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.);
         Account acc3 = new SavingAccount(1004, "Lucas", 0.0, 0.01);
 

@@ -22,7 +22,6 @@ public class program {
 
         for (int i = 1; i <= n; i++) {
             System.out.println("Employee #" + i + "cursonelio/data");
-            ;
             System.out.print("Outsource (y/n)? ");
             char cg = sc.next().charAt(0);
             System.out.print("Name: ");

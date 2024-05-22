@@ -1,6 +1,6 @@
 package cursonelio.heranca_super_sobreposicao_upcasting_final;
 
-public class Account {
+public abstract  class Account {
 
     private Integer number;
     private String holder;

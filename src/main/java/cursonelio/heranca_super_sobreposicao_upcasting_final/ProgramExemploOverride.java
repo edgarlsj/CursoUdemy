@@ -3,9 +3,9 @@ package cursonelio.heranca_super_sobreposicao_upcasting_final;
 public class ProgramExemploOverride {
     public static void main(String[] args) {
 
-        Account acc1 = new Account(1001, "Edgar", 1000.0);
-        acc1.withdraw(200.0);
-        System.out.println(acc1);
+//        Account acc1 = new Account(1001, "Edgar", 1000.0);
+//        acc1.withdraw(200.0);
+//        System.out.println(acc1);
 
 //        Chama o método sobrescrito na classe SavingAccount
         Account acc2 = new SavingAccount(1002, "Maria", 1000.0, 0.01);
